@@ -15,8 +15,7 @@ As imagens são capturas reais do próprio BT Decision, versão 1.10.0. Para adi
 um vídeo, use apenas um material próprio aprovado para divulgação. Não incorporar
 vídeos ou recursos de terceiros estudados como referência.
 
-Contato público atual: kakarmr@gmail.com. Substituir de forma consistente quando
-o responsável confirmar um novo e-mail de suporte.
+Contato de suporte confirmado pelo responsável: btdecision.suporte@gmail.com.
 
 © 2026 Romário Brito. O acesso público ao repositório não concede licença de
 redistribuição da marca, ilustrações ou conteúdo do aplicativo.
